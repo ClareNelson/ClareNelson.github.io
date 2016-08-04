@@ -1,7 +1,7 @@
 ---
 layout:     keynote
 title:      "克莱尔的第一篇博客"
-subtitle:   "Slides: Progressive Web App, in my points of view"
+
 iframe:     "http://huangxuan.me/pwa-in-my-pov/"
 date:       2016-08-04
 author:     "Hux"
